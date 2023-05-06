@@ -11,8 +11,7 @@ Here's a preview of the animation:
 # How it Works
 The animation is created using CSS properties position, left, and animation. The circle is created with a <div>
 element that has a fixed size and is styled with the border-radius property to create the circular shape.
-
-# The animation is defined using the animation property and consists of one step (@keyframes): 
+The animation is defined using the animation property and consists of one step (@keyframes): 
 The only step is only in the exchange of images, the time is defined by another property
 
 # How to Run
