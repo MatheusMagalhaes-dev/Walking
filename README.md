@@ -6,7 +6,7 @@ The animation consists of an image that changes according to the time programmed
 
 # Animation Preview
 Here's a preview of the animation:
-<a href="#">Preview Here</a>
+<a href="https://matheusmagalhaes-dev.github.io/Walking/">Preview Here</a>
 
 # How it Works
 The animation is created using CSS properties position, left, and animation. The circle is created with a <div>
